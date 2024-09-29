@@ -43,7 +43,7 @@ email: i.santamaria@unican.es
 
 authors:
   johndoe:
-    name: John Doe
+    name: Ignacio Santamaria
     bio: Professor, Universidad de Cantabria, Spain
     external-image: true
     picture: assets/images/Santamaria_pic.jpg
@@ -64,7 +64,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+short bio: true
 blog: true
 
 # do you want to show the "read time" of the posts?
