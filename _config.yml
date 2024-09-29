@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/Santamaria_2016.jpg
+picture: assets/images/Santamaria_pic.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -46,7 +46,7 @@ authors:
     name: John Doe
     bio: Professor, Universidad de Cantabria, Spain
     external-image: true
-    picture: assets/images/Santamaria_2016.jpg
+    picture: assets/images/Santamaria_pic.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
