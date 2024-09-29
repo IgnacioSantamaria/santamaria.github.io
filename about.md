@@ -6,35 +6,3 @@ layout: page
 
 <p>Ignacio Santamaria received the Telecommunication Engineer degree and the Ph.D. degree in electrical engineering from the Universidad Politécnica de Madrid (UPM), Spain, in 1991 and 1995, respectively. In 1992, he joined the Department of Communications Engineering, Universidad de Cantabria, Spain, as a Full Professor since 2007. He has co-authored over 250 publications in refereed journals and international conference papers and holds two patents. He has co-authored the book D. Ramirez, I. Santamaria, and L.L. Scharf, “Coherence in Signal Processing and Machine Learning”, Springer, 2022. His current research interests include signal processing algorithms and information-theoretic aspects of multiuser multiantenna wireless communication systems, multivariate statistical techniques, and signal processing for inference, prediction, decision-making, and optimal design. He has been involved in numerous national and international research projects. He has been a visiting researcher at the University of Florida (in 2000 and 2004), at the University of Texas at Austin (in 2009), and at the Colorado State University (in 2015 and 2017). He has been Associate Editor of the IEEE Transactions on Signal Processing (2011-2015), and Senior Area Editor of the IEEE Transactions on Signal Processing (2013-2015). He is currently subject area editor of Signal Processing (Elsevier). He has been a member of the IEEE Machine Learning for Signal Processing Technical Committee (2009-2014), member of the IEEE Signal Processing Theory and Methods Technical Committee (2020-2022), and member of the IEEE Data Science Initiative (DSI) steering committee (2020-2022). Prof. Santamaria co-authored a paper that received the 2012 IEEE Signal Processing Society Young Author Best Paper Award and has received the 2022 IHP International Wolfgang Mehr Fellowship Award.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
