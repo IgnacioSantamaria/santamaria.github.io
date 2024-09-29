@@ -45,7 +45,7 @@ authors:
   johndoe:
     name: John Doe
     bio: Professor, Universidad de Cantabria, Spain
-    external-image: false
+    external-image: true
     picture: assets/images/Santamaria_2016.jpg
     twitter: johndoe
   jamesfoster:
