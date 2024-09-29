@@ -45,7 +45,7 @@ authors:
   johndoe:
     name: Ignacio Santamaria
     bio: Professor, Universidad de Cantabria, Spain
-    external-image: true
+    external-image: false
     picture: assets/images/Santamaria_pic.jpg
     twitter: johndoe
   jamesfoster:
