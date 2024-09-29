@@ -1,6 +1,6 @@
 # main text of home
 title: Ignacio Santamaria
-bio: A Person who travels the world eating noodles
+bio: Professor, Universidad de Cantabria, Spain
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
-email: myemail@gmail.com
+email: i.santamaria@unican.es
 
 authors:
   johndoe:
