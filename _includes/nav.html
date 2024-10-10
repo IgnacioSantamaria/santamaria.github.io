@@ -15,6 +15,7 @@
             {% endif %}
         {% endif %}
 
+         
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
@@ -23,6 +24,7 @@
             {% endif %}
         {% endif %}
 
+         
         {% if site.publications == true %}
             {% if page.title != "Publications" %}
                 <li class="item">
@@ -40,6 +42,7 @@
             {% endif %}
         {% endif %}
 
+         
         {% if site.resume == true %}
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
